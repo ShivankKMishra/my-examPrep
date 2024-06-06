@@ -1,0 +1,831 @@
+[
+  {
+    "name": "CS601 Machine Learning",
+    "units": [
+      {
+        "name": "Unit –I",
+        "topics": [
+          { "name": "Introduction to machine learning", "completed": false },
+          { "name": "Scope and limitations", "completed": false },
+          { "name": "Regression", "completed": false },
+          { "name": "Probability", "completed": false },
+          { "name": "Statistics and linear algebra for machine learning", "completed": false },
+          { "name": "Convex optimization", "completed": false },
+          { "name": "Data visualization", "completed": false },
+          { "name": "Hypothesis function and testing", "completed": false },
+          { "name": "Data distributions", "completed": false },
+          { "name": "Data preprocessing", "completed": false },
+          { "name": "Data augmentation", "completed": false },
+          { "name": "Normalizing data sets", "completed": false },
+          { "name": "Machine learning models", "completed": false },
+          { "name": "Supervised and unsupervised learning", "completed": false }
+        ]
+      },
+      {
+        "name": "Unit –II",
+        "topics": [
+          { "name": "Linearity vs non linearity", "completed": false },
+          { "name": "Activation functions like sigmoid, ReLU, etc.", "completed": false },
+          { "name": "Weights and bias", "completed": false },
+          { "name": "Loss function", "completed": false },
+          { "name": "Gradient descent", "completed": false },
+          { "name": "Multilayer network", "completed": false },
+          { "name": "Backpropagation", "completed": false },
+          { "name": "Weight initialization", "completed": false },
+          { "name": "Training", "completed": false },
+          { "name": "Testing", "completed": false },
+          { "name": "Unstable gradient problem", "completed": false },
+          { "name": "Auto encoders", "completed": false },
+          { "name": "Batch normalization", "completed": false },
+          { "name": "Dropout", "completed": false },
+          { "name": "L1 and L2 regularization", "completed": false },
+          { "name": "Momentum", "completed": false },
+          { "name": "Tuning hyper parameters", "completed": false }
+        ]
+      },
+      {
+        "name": "Unit –III",
+        "topics": [
+          { "name": "Convolutional neural network", "completed": false },
+          { "name": "Flattening", "completed": false },
+          { "name": "Subsampling", "completed": false },
+          { "name": "Padding", "completed": false },
+          { "name": "Stride", "completed": false },
+          { "name": "Convolution layer", "completed": false },
+          { "name": "Pooling layer", "completed": false },
+          { "name": "Loss layer", "completed": false },
+          { "name": "Dance layer", "completed": false },
+          { "name": "1x1 convolution", "completed": false },
+          { "name": "Inception network", "completed": false },
+          { "name": "Input channels", "completed": false },
+          { "name": "Transfer learning", "completed": false },
+          { "name": "One shot learning", "completed": false },
+          { "name": "Dimension reductions", "completed": false },
+          { "name": "Implementation of CNN like TensorFlow, Keras etc.", "completed": false }
+        ]
+      },
+      {
+        "name": "Unit –IV",
+        "topics": [
+          { "name": "Recurrent neural network", "completed": false },
+          { "name": "Long short-term memory", "completed": false },
+          { "name": "Gated recurrent unit", "completed": false },
+          { "name": "Translation", "completed": false },
+          { "name": "Beam search and width", "completed": false },
+          { "name": "Bleu score", "completed": false },
+          { "name": "Attention model", "completed": false },
+          { "name": "Reinforcement Learning", "completed": false },
+          { "name": "RL-framework", "completed": false },
+          { "name": "MDP", "completed": false },
+          { "name": "Bellman equations", "completed": false },
+          { "name": "Value Iteration and Policy Iteration", "completed": false },
+          { "name": "Actor-critic model", "completed": false },
+          { "name": "Q-learning", "completed": false },
+          { "name": "SARSA", "completed": false }
+        ]
+      },
+      {
+        "name": "Unit –V",
+        "topics": [
+          { "name": "Support Vector Machines", "completed": false },
+          { "name": "Bayesian learning", "completed": false },
+          { "name": "Application of machine learning in computer vision", "completed": false },
+          { "name": "Speech processing", "completed": false },
+          { "name": "Natural language processing", "completed": false },
+          { "name": "Case Study: ImageNet Competition", "completed": false }
+        ]
+      }
+    ]
+  },
+  {
+  "name": "CS602 Computer Networks",
+  "units": [
+    {
+      "name": "Unit –I",
+      "topics": [
+        {
+          "name": "Computer Network: Definitions",
+          "completed": false
+        },
+        {
+          "name": "Computer Network: Goals",
+          "completed": false
+        },
+        {
+          "name": "Computer Network: Components",
+          "completed": false
+        },
+        {
+          "name": "Computer Network: Architecture",
+          "completed": false
+        },
+        {
+          "name": "Computer Network: Classifications & Types",
+          "completed": false
+        },
+        {
+          "name": "Layered Architecture: Protocol hierarchy",
+          "completed": false
+        },
+        {
+          "name": "Layered Architecture: Design Issues",
+          "completed": false
+        },
+        {
+          "name": "Layered Architecture: Interfaces and Services",
+          "completed": false
+        },
+        {
+          "name": "Layered Architecture: Connection Oriented Services",
+          "completed": false
+        },
+        {
+          "name": "Layered Architecture: Connectionless Services",
+          "completed": false
+        },
+        {
+          "name": "Layered Architecture: Service primitives",
+          "completed": false
+        },
+        {
+          "name": "Layered Architecture: Design issues & functionality",
+          "completed": false
+        },
+        {
+          "name": "ISO-OSI Reference Model: Principle",
+          "completed": false
+        },
+        {
+          "name": "ISO-OSI Reference Model: Model",
+          "completed": false
+        },
+        {
+          "name": "ISO-OSI Reference Model: Descriptions of various layers",
+          "completed": false
+        },
+        {
+          "name": "ISO-OSI Reference Model: Comparison with TCP/IP",
+          "completed": false
+        },
+        {
+          "name": "Principals of physical layer: Media",
+          "completed": false
+        },
+        {
+          "name": "Principals of physical layer: Bandwidth",
+          "completed": false
+        },
+        {
+          "name": "Principals of physical layer: Data rate",
+          "completed": false
+        },
+        {
+          "name": "Principals of physical layer: Modulations",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Unit-II",
+      "topics": [
+        {
+          "name": "Data Link Layer: Need",
+          "completed": false
+        },
+        {
+          "name": "Data Link Layer: Services Provided",
+          "completed": false
+        },
+        {
+          "name": "Data Link Layer: Framing",
+          "completed": false
+        },
+        {
+          "name": "Data Link Layer: Flow Control",
+          "completed": false
+        },
+        {
+          "name": "Data Link Layer: Error control",
+          "completed": false
+        },
+        {
+          "name": "Data Link Layer Protocol: Elementary protocol",
+          "completed": false
+        },
+        {
+          "name": "Data Link Layer Protocol: Sliding Window protocol",
+          "completed": false
+        },
+        {
+          "name": "Data Link Layer Protocol: Go-Back-N protocol",
+          "completed": false
+        },
+        {
+          "name": "Data Link Layer Protocol: Selective Repeat protocol",
+          "completed": false
+        },
+        {
+          "name": "Data Link Layer Protocol: Hybrid ARQ",
+          "completed": false
+        },
+        {
+          "name": "Protocol verification: Finite State Machine Models",
+          "completed": false
+        },
+        {
+          "name": "Protocol verification: Petri net models",
+          "completed": false
+        },
+        {
+          "name": "ARP",
+          "completed": false
+        },
+        {
+          "name": "RARP",
+          "completed": false
+        },
+        {
+          "name": "GARP",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Unit-III",
+      "topics": [
+        {
+          "name": "MAC Sub layer: MAC Addressing",
+          "completed": false
+        },
+        {
+          "name": "MAC Sub layer: Binary Exponential Back-off (BEB) Algorithm",
+          "completed": false
+        },
+        {
+          "name": "MAC Sub layer: Distributed Random Access Schemes/Contention Schemes for Data Services",
+          "completed": false
+        },
+        {
+          "name": "MAC Sub layer: Distributed Random Access Schemes/Contention Schemes for Local-Area Networks",
+          "completed": false
+        },
+        {
+          "name": "Collision Free Protocols: Basic Bit Map",
+          "completed": false
+        },
+        {
+          "name": "Collision Free Protocols: BRAP",
+          "completed": false
+        },
+        {
+          "name": "Collision Free Protocols: Binary Count Down",
+          "completed": false
+        },
+        {
+          "name": "Collision Free Protocols: MLMA Limited Contention Protocols",
+          "completed": false
+        },
+        {
+          "name": "IEEE Standards 802 series & their variant",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Unit-IV",
+      "topics":[
+        {
+          "name": "Network Layer: Need",
+          "completed": false
+        },
+        {
+          "name": "Network Layer: Services Provided",
+          "completed": false
+        },
+        {
+          "name": "Network Layer: Design issues",
+          "completed": false
+        },
+        {
+          "name": "Network Layer: Routing algorithms",
+          "completed": false
+        },
+        {
+          "name": "Network Layer: Least Cost Routing algorithm",
+          "completed": false
+        },
+        {
+          "name": "Network Layer: Dijkstra's algorithm",
+          "completed": false
+        },
+        {
+          "name": "Network Layer: Bellman-ford algorithm",
+          "completed": false
+        },
+        {
+          "name": "Network Layer: Hierarchical Routing",
+          "completed": false
+        },
+        {
+          "name": "Network Layer: Broadcast Routing",
+          "completed": false
+        },
+        {
+          "name": "Network Layer: Multicast Routing",
+          "completed": false
+        },
+        {
+          "name": "IP Addresses",
+          "completed": false
+        },
+        {
+          "name": "IP Header format",
+          "completed": false
+        },
+        {
+          "name": "Packet forwarding",
+          "completed": false
+        },
+        {
+          "name": "Fragmentation and reassembly",
+          "completed": false
+        },
+        {
+          "name": "ICMP",
+          "completed": false
+        },
+        {
+          "name": "Comparative study of IPv4 & IPv6",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Unit-V",
+      "topics": [
+        {
+          "name": "Transport Layer: Design Issues",
+          "completed": false
+        },
+        {
+          "name": "UDP: Header Format",
+          "completed": false
+        },
+        {
+          "name": "UDP: Per-Segment Checksum",
+          "completed": false
+        },
+        {
+          "name": "UDP: Carrying Unicast/Multicast Real-Time Traffic",
+          "completed": false
+        },
+        {
+          "name": "TCP: Connection Management",
+          "completed": false
+        },
+        {
+          "name": "TCP: Reliability of Data Transfers",
+          "completed": false
+        },
+        {
+          "name": "TCP: TCP Flow Control",
+          "completed": false
+        },
+        {
+          "name": "TCP: TCP Congestion Control",
+          "completed": false
+        },
+        {
+          "name": "TCP: TCP Header Format",
+          "completed": false
+        },
+        {
+          "name": "TCP: TCP Timer Management",
+          "completed": false
+        },
+        {
+          "name": "Application Layer: WWW and HTTP",
+          "completed": false
+        },
+        {
+          "name": "Application Layer: FTP",
+          "completed": false
+        },
+        {
+          "name": "Application Layer: SSH",
+          "completed": false
+        },
+        {
+          "name": "Application Layer: Email (SMTP, MIME, IMAP)",
+          "completed": false
+        },
+        {
+          "name": "Application Layer: DNS",
+          "completed": false
+        },
+        {
+          "name": "Application Layer: Network Management (SNMP)",
+          "completed": false
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "CS603  Compiler Design",
+  "units": [
+    {
+      "name": "Unit-I Introduction to compiling & Lexical Analysis",
+      "topics": [
+        {
+          "name": "Introduction of Compiler",
+          "completed": false
+        },
+        {
+          "name": "Major data Structure in compiler",
+          "completed": false
+        },
+        {
+          "name": "Types of Compiler",
+          "completed": false
+        },
+        {
+          "name": "Front-end and Back-end of compiler",
+          "completed": false
+        },
+        {
+          "name": "Compiler structure: analysis-synthesis model of compilation",
+          "completed": false
+        },
+        {
+          "name": "Various phases of a compiler",
+          "completed": false
+        },
+        {
+          "name": "Lexical analysis: Input buffering",
+          "completed": false
+        },
+        {
+          "name": "Specification & Recognition of Tokens",
+          "completed": false
+        },
+        {
+          "name": "Design of a Lexical Analyzer Generator",
+          "completed": false
+        },
+        {
+          "name": "LEX",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Unit-II Syntax Analysis &Syntax Directed Translation",
+      "topics": [
+        {
+          "name": "Syntax analysis: CFGs",
+          "completed": false
+        },
+        {
+          "name": "Top down parsing",
+          "completed": false
+        },
+        {
+          "name": "Brute force approach",
+          "completed": false
+        },
+        {
+          "name": "Recursive descent parsing",
+          "completed": false
+        },
+        {
+          "name": "Transformation on the grammars",
+          "completed": false
+        },
+        {
+          "name": "Predictive parsing",
+          "completed": false
+        },
+        {
+          "name": "Bottom up parsing",
+          "completed": false
+        },
+        {
+          "name": "Operator precedence parsing",
+          "completed": false
+        },
+        {
+          "name": "LR parsers (SLR,LALR, LR)",
+          "completed": false
+        },
+        {
+          "name": "Parser generation",
+          "completed": false
+        },
+        {
+          "name": "Syntax directed definitions: Construction of Syntax trees",
+          "completed": false
+        },
+        {
+          "name": "Bottom up evaluation of S-attributed definition",
+          "completed": false
+        },
+        {
+          "name": "L-attribute definition",
+          "completed": false
+        },
+        {
+          "name": "Top down translation",
+          "completed": false
+        },
+        {
+          "name": "Bottom Up evaluation of inherited attributes Recursive Evaluation",
+          "completed": false
+        },
+        {
+          "name": "Analysis of Syntax directed definition",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Unit-III Type Checking & Run Time Environment",
+      "topics": [
+        {
+          "name": "Type checking: type system",
+          "completed": false
+        },
+        {
+          "name": "Specification of simple type checker",
+          "completed": false
+        },
+        {
+          "name": "Equivalence of expression types",
+          "completed": false
+        },
+        {
+          "name": "Type conversion",
+          "completed": false
+        },
+        {
+          "name": "Overloading of functions and operations",
+          "completed": false
+        },
+        {
+          "name": "Polymorphic functions",
+          "completed": false
+        },
+        {
+          "name": "Run time Environment: storage organization",
+          "completed": false
+        },
+        {
+          "name": "Storage allocation strategies",
+          "completed": false
+        },
+        {
+          "name": "Parameter passing",
+          "completed": false
+        },
+        {
+          "name": "Dynamic storage allocation",
+          "completed": false
+        },
+        {
+          "name": "Symbol table",
+          "completed": false
+        },
+        {
+          "name": "Error Detection & Recovery",
+          "completed": false
+        },
+        {
+          "name": "Ad-Hoc and Systematic Methods",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Unit –IV Code Generation",
+      "topics": [
+        {
+          "name": "Intermediate code generation: Declarations",
+          "completed": false
+        },
+        {
+          "name": "Assignment statements",
+          "completed": false
+        },
+        {
+          "name": "Boolean expressions",
+          "completed": false
+        },
+        {
+          "name": "Case statements",
+          "completed": false
+        },
+        {
+          "name": "Back patching",
+          "completed": false
+        },
+        {
+          "name": "Procedure calls Code Generation",
+          "completed": false
+        },
+        {
+          "name": "Issues in the design of code generator",
+          "completed": false
+        },
+        {
+          "name": "Basic block and flow graphs",
+          "completed": false
+        },
+        {
+          "name": "Register allocation and assignment",
+          "completed": false
+        },
+        {
+          "name": "DAG representation of basic blocks",
+          "completed": false
+        },
+        {
+          "name": "Peephole optimization",
+          "completed": false
+        },
+        {
+          "name": "Generating code from DAG",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Unit –V Code Optimization",
+      "topics": [
+        {
+          "name": "Introduction to Code optimization",
+          "completed": false
+        },
+        {
+          "name": "Sources of optimization of basic blocks",
+          "completed": false
+        },
+        {
+          "name": "Loops in flow graphs",
+          "completed": false
+        },
+        {
+          "name": "Dead code elimination",
+          "completed": false
+        },
+        {
+          "name": "Loop optimization",
+          "completed": false
+        },
+        {
+          "name": "Introduction to global data flow analysis",
+          "completed": false
+        },
+        {
+          "name": "Code Improving transformations",
+          "completed": false
+        },
+        {
+          "name": "Data flow analysis of structure flow graph",
+          "completed": false
+        },
+        {
+          "name": "Symbolic debugging of optimized code",
+          "completed": false
+        }
+      ]
+    }
+  ]
+}
+,
+{
+  "name": "CS604  Project Management",
+  "units": [
+    {
+      "name": "Conventional Software Management",
+      "topics": [
+        {
+          "name": "Evolution of software economics",
+          "completed": false
+        },
+        {
+          "name": "Improving software economics: reducing product size",
+          "completed": false
+        },
+        {
+          "name": "Software processes",
+          "completed": false
+        },
+        {
+          "name": "Team effectiveness",
+          "completed": false
+        },
+        {
+          "name": "Automation through software environments",
+          "completed": false
+        },
+        {
+          "name": "Principles of modern software management",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Software Management Process Framework",
+      "topics": [
+        {
+          "name": "Life cycle phases: inception",
+          "completed": false
+        },
+        {
+          "name": "Elaboration",
+          "completed": false
+        },
+        {
+          "name": "Construction",
+          "completed": false
+        },
+        {
+          "name": "Training phase",
+          "completed": false
+        },
+        {
+          "name": "Artifacts of the process",
+          "completed": false
+        },
+        {
+          "name": "The artifact sets",
+          "completed": false
+        },
+        {
+          "name": "Management artifacts",
+          "completed": false
+        },
+        {
+          "name": "Engineering artifacts",
+          "completed": false
+        },
+        {
+          "name": "Pragmatics artifacts",
+          "completed": false
+        },
+        {
+          "name": "Model based software architectures",
+          "completed": false
+        },
+        {
+          "name": "Workflows of the process",
+          "completed": false
+        },
+        {
+          "name": "Checkpoints of the process",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Software Management Disciplines",
+      "topics": [
+        {
+          "name": "Iterative process planning",
+          "completed": false
+        },
+        {
+          "name": "Project organisations and responsibilities",
+          "completed": false
+        },
+        {
+          "name": "Process automation",
+          "completed": false
+        },
+        {
+          "name": "Project control And process instrumentation",
+          "completed": false
+        },
+        {
+          "name": "Core metrics",
+          "completed": false
+        },
+        {
+          "name": "Management indicators",
+          "completed": false
+        },
+        {
+          "name": "Life cycle expections",
+          "completed": false
+        },
+        {
+          "name": "Process discriminants",
+          "completed": false
+        }
+      ]
+    }
+  ]
+}
+
+
+]
